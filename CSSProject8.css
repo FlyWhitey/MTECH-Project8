@@ -1,0 +1,80 @@
+﻿.SecondSection {
+    margin:50px;
+    padding:50px;
+    text-align:center;
+    
+    
+    
+
+
+
+}
+
+.FirstSection {
+    
+  
+    
+}
+
+.LeftTitles {
+    text-align:left;
+
+
+
+}
+
+
+
+.Button {
+    width: 80%;
+    height: 40px;
+    background-color: yellow;
+    margin-bottom: 15px;
+    
+
+
+
+}
+
+
+
+
+
+#Title
+{
+    float: left;
+}
+
+#Nav {
+    float: right;
+}
+
+#Dashboard {
+    
+    border-style:double;
+    border-color:yellow;
+    margin: 50px;
+}
+
+#Budget {
+   
+    border-style:double;
+    border-color:yellow;
+    margin: 50px;
+}
+
+#Checkbooks {
+    
+    border-style:double;
+    border-color:yellow;
+    margin: 50px;
+}
+
+#Money {
+    
+    border-style:double;
+    border-color:yellow;
+    margin: 50px;
+}
+
+
