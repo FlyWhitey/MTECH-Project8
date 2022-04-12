@@ -1,0 +1,91 @@
+﻿.SecondSection {
+    margin:50px;
+    padding:50px;
+    text-align:center;
+    
+    
+    
+
+
+
+}
+
+.FirstSection {
+    
+  
+    
+}
+
+.LeftTitles {
+    text-align:left;
+
+
+
+}
+
+
+
+.Button {
+    width: 80%;
+    height: 40px;
+    background-color: yellow;
+    margin-bottom: 15px;
+	justify-content: right;
+    
+
+
+
+}
+
+
+
+
+
+#Title
+{
+    display:flex;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#Nav {
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#Dashboard {
+    
+    border-style:double;
+    border-color:yellow;
+    margin: 50px;
+	justify-content: space-between;
+}
+
+#Budget {
+   
+    border-style:double;
+    border-color:yellow;
+    margin: 50px;
+	justify-content: space-between;
+}
+
+#Checkbooks {
+    
+    border-style:double;
+    border-color:yellow;
+    margin: 50px;
+	justify-content: space-between;
+}
+
+#Money {
+    
+    border-style:double;
+    border-color:yellow;
+    margin: 50px;
+	justify-content: space-between;
+}
+
+
